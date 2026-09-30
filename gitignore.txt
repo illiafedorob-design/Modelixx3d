@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/models/
+data/models.json
+.DS_Store
